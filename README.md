@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm [Your Name], a passionate software engineer with a love for building cool stuff! Welcome to my GitHub profile, where I share my projects, experiments, and contributions to the world of code.
+I'm Vini, a passionate software engineer with a love for building cool stuff! Welcome to my GitHub profile, where I share my projects, experiments, and contributions to the world of code.
 
 ## About Me
 
@@ -29,7 +29,7 @@ I'm [Your Name], a passionate software engineer with a love for building cool st
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniRossiniCosta&show_icons=true&theme=dark)
 
 ## Let's Connect
 
