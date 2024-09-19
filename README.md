@@ -22,4 +22,6 @@ I'm Vini, a software engineer specializing in Web Services, Machine Learning, Ar
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Networking](https://img.shields.io/badge/-Networking-007396?style=flat-square&logo=cisco&logoColor=white)](https://learningnetwork.cisco.com/s/networking-docs)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 
