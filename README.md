@@ -1,6 +1,6 @@
 # What's Up Everyone,
 
-I'm Vini, a software engineer specializing in Web Services, Machine Learning, Artificial Intelligence, Cyber Security, and Power BI. Welcome to my GitHub profile, where I share my projects, experiments, and ongoing contributions as I continue to deepen my expertise in these fields.
+Reworking
 
 # Tools
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://docs.github.com/)
